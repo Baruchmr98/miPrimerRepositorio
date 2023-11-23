@@ -1,0 +1,6 @@
+Hola, este es mi primer archivo de texto jeje
+A ver si le caché
+Jelooowwwww si se pudo
+Al usar rm (remove) debo tener cuidado cuando sean directorios. Cuando sea el caso, debo acompañarlo de un'-r'
+Al usar el comando echo, se debe agregar un '>>' para señalar a dónde se mandará lo escrito
+me faltó probar el comando cp
